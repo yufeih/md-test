@@ -1,2 +1,4 @@
 - name: Index
   href: index.md
+- name: a(b)c d
+  href: a(b)c%20d.md
